@@ -1,0 +1,10 @@
+---
+name: Txt
+about: Txt dosyasi
+title: ''
+labels: ''
+assignees: tekin2338
+
+---
+
+228053c6f68b654d89739cf7672881e58a4d310295deaaaec8564896ba022d523a4df782341d4c9684851d8db739f47794636ce2a20ccc9619dc30176109609d
